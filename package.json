@@ -1,0 +1,22 @@
+{
+  "name": "rgalindo",
+  "version": "1.0.0",
+  "description": "Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABardot/RGalindo.git"
+  },
+  "author": "Adrien Bardot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ABardot/RGalindo/issues"
+  },
+  "homepage": "https://github.com/ABardot/RGalindo#readme",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
